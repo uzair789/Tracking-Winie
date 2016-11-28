@@ -1,5 +1,4 @@
 function SDMtrack(models, mean_shape, start_location, start_frame, outvidfile)
-% CV Fall 2014 - Provided Code
 % You need to implement the SDM test phase in this function, and output a
 % tracking video for Winnie the Pooh
 %
