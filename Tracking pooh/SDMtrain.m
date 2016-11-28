@@ -1,9 +1,4 @@
 function models = SDMtrain(mean_shape, annotations)
-
-% CV Fall 2014 - Provided Code
-% You need to implement the SDM training phase in this function, and
-% produce tracking models for Winnie the Pooh
-%
 % Input:
 %   mean_shape:    A provided 5x2 matrix indicating the x and y coordinates of 5 control points
 %   annotations:   A ground truth annotation for training images. Each row has the format
