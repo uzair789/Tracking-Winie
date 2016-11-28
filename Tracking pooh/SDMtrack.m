@@ -1,7 +1,4 @@
 function SDMtrack(models, mean_shape, start_location, start_frame, outvidfile)
-% You need to implement the SDM test phase in this function, and output a
-% tracking video for Winnie the Pooh
-%
 % Input:
 %   models:         The model you trained in SDMtrain.m
 %   mean_shape:     A provided 5x2 matrix indicating the x and y coordinates of 5 control points
